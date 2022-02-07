@@ -8653,8 +8653,8 @@ Source: AVX .. aphvc.pdf</description>
 <plain>
 <text x="363.22" y="40.64" size="2.54" layer="91" ratio="10">Breakoutboard für BME680
 mit Micro-MaTch Stecker</text>
-<text x="354.965" y="53.975" size="1.27" layer="91" ratio="10">rue.e.</text>
-<text x="344.805" y="53.975" size="1.27" layer="91" ratio="10">07.01.22</text>
+<text x="354.965" y="53.975" size="1.27" layer="91" ratio="10">rue. e.</text>
+<text x="344.805" y="53.975" size="1.27" layer="91" ratio="10">07.02.22</text>
 </plain>
 <instances>
 <instance part="IC1" gate="IC1" x="226.06" y="142.24" smashed="yes">
